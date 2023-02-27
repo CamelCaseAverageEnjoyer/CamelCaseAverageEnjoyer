@@ -3,6 +3,8 @@
 
 ---
 
+<div class="pull-left"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=250 alt="funny gif" align="right"/></div>
+
 Я начинающий исследователь в областях:
 
 - :triangular_ruler: Теоретическая механика
@@ -11,7 +13,7 @@
 
 В дополнение к этому изучаю программирование для **численного моделирования** управляемых систем. Надеюсь приложить руку к написанию алгоритмов для спутниковых миссий.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="funny gif" />
+<br clear="right">
 
 ---
 ### Пройденные курсы
