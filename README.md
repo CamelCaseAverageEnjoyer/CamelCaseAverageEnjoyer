@@ -1,17 +1,17 @@
 
-# Хай :hand:, меня зовут Влад, вот немного обо мне:
+# :wheelchair: Не следует цепляться за нечто бесполезное, в особенности если эта бесполезная вещь — ты сам.:
 
 ---
 
 <div class="pull-left"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=250 alt="funny gif" align="right"/></div>
 
-Я начинающий исследователь в областях:
+Области исследований:
 
 - :triangular_ruler: Теоретическая механика
 - :video_game: Теория управления
 - :dizzy: Динамика космического полёта
 
-В дополнение к этому изучаю программирование для **численного моделирования** управляемых систем. Надеюсь приложить руку к написанию алгоритмов для спутниковых миссий.
+Изучаю программирование для **численного моделирования**. Добро пожаловать на мой Github! Тут не донца прибрано и причёсано, но какая-то структура есть. В соответствии с протоколом тестирования, с этого момента мы перестаём говорить правду.
 
 <br clear="right">
 
@@ -32,7 +32,7 @@
     <a href="https://t.me/frostytastycircumstances" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram acc" />
     </a>
-    <a href="https://vk.com/pernatiy_zybr" target="_blank">
+    <a href="https://vk.com/i_want_cheesecake" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="vk acc"/>
     </a>
   </div>
