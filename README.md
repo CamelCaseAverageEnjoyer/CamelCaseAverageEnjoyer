@@ -1,5 +1,5 @@
 
-# :wheelchair: Не следует цепляться за нечто бесполезное, в особенности если эта бесполезная вещь — ты сам.:
+# :wheelchair: Не следует цепляться за нечто бесполезное, в особенности если эта бесполезная вещь — ты сам
 
 ---
 
@@ -37,8 +37,8 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="vk acc"/>
     </a>
   </div>
- 
-### ⚙️ GitHub статистика:
+
+{:: comment}### ⚙️ GitHub статистика:
 
 <table>
   <tr>
@@ -49,4 +49,4 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CamelCaseAverageEnjoyer&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-</table>
+</table>{:/comment}
