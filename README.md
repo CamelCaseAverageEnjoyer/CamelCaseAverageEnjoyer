@@ -38,7 +38,8 @@
     </a>
   </div>
 
-{:: comment}### ⚙️ GitHub статистика:
+{:: comment}
+⚙️ GitHub статистика:
 
 <table>
   <tr>
