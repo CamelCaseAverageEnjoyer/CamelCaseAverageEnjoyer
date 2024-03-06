@@ -13,6 +13,7 @@
 
 Изучаю программирование для **численного моделирования**. Добро пожаловать на мой Github! Тут не донца прибрано и причёсано, но какая-то структура есть. В соответствии с протоколом тестирования, с этого момента мы перестаём говорить правду.
 
+
 <br clear="right">
 
 ---
@@ -25,6 +26,10 @@
 |<image src="https://stepik.org/media/cache/images/courses/51322/cover/f35eba8b481d23245b03a9b45998da1e.png" alt="Stepik" width=70>|<a href="https://stepik.org/course/51322" target="_blank">Discover Turtles: Drawing With Python</a>|
 |<image src="https://stepik.org/media/cache/images/courses/108374/cover_bcTX3l4/cb1f22813bdebfcb64fc6cdab61e2aee.png" alt="Stepik" width=70>|<a href="https://stepik.org/course/108374" target="_blank">Tertiarm. Arduino и манипуляционная робототехника.</a>|
 
+<audio data-volume="1.0" preload="metadata">
+  <source src="https://static.wikia.nocookie.net/dota2_ru_gamepedia/images/c/c5/Legcom_rival_25_ru.mp3/revision/latest?cb=20170413052800" type="audio/mpeg">
+  <a href="https://static.wikia.nocookie.net/dota2_ru_gamepedia/images/c/c5/Legcom_rival_25_ru.mp3/revision/latest?cb=20170413052800">Link</a>
+</audio>
 
 
 ---
