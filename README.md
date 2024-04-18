@@ -5,12 +5,6 @@
 
 <div class="pull-left"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=250 alt="funny gif" align="right"/></div>
 
-Области исследований:
-
-- :triangular_ruler: Теоретическая механика
-- :video_game: Теория управления
-- :dizzy: Динамика космического полёта
-
 <a href="https://static.wikia.nocookie.net/dota2_ru_gamepedia/images/b/ba/Pud_shitwiz_01_ru.mp3" target="_blank">Изучаю программирование</a> для **численного моделирования**. Добро пожаловать на мой Github! Тут не донца прибрано и причёсано, но какая-то структура есть. В соответствии с протоколом тестирования, с этого момента мы перестаём говорить правду.
 
 
