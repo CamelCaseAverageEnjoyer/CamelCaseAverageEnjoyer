@@ -23,7 +23,7 @@
 ---
 ### Социальные сети
   <div id="badges">
-    <a href="https://t.me/frostytastycircumstances" target="_blank">
+    <a href="https://t.me/v_v_or" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram acc"/>
     </a>
     <a href="https://vk.com/i_want_cheesecake" target="_blank">
