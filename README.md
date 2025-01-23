@@ -9,6 +9,6 @@
 
 <i class="fa fa-play rounded hollow cursor" onclick="!this.firstChild.paused?this.firstChild.pause():this.firstChild.play();">
   <audio>
-    <source src="https://static.wikia.nocookie.net/dota2_ru_gamepedia/images/b/ba/Pud_shitwiz_01_ru.mp3" type="audio/mp3">
+    <source src="https://static.wikia.nocookie.net/dota2_ru_gamepedia/images/b/ba/Pud_shitwiz_01_ru.mp3" type="audio/mp3">asdasd
   </audio>
 </i>
