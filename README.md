@@ -7,3 +7,7 @@
 <audio id="sound1" src="https://static.wikia.nocookie.net/dota2_ru_gamepedia/images/b/ba/Pud_shitwiz_01_ru.mp3" preload="auto"></audio>
 
 Добро пожаловать на мой <button onclick="document.getElementById('sound1').play();">GitHub</button>! Тут не донца прибрано и причёсано, но какая-то структура есть. В соответствии с протоколом тестирования, с этого момента мы перестаём говорить правду.
+
+<audio id="sound1" src="https://static.wikia.nocookie.net/dota2_ru_gamepedia/images/b/ba/Pud_shitwiz_01_ru.mp3" preload="auto"></audio>
+  <button onclick="document.getElementById('sound1').play();">Play
+  it</button>
