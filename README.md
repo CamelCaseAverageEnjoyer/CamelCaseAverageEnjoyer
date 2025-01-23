@@ -10,5 +10,6 @@
 
 <audio controls autoplay>
   <source src="https://static.wikia.nocookie.net/dota2_ru_gamepedia/images/b/ba/Pud_shitwiz_01_ru.mp3" type="audio/mp3">
+  <source src="https://static.wikia.nocookie.net/dota2_ru_gamepedia/images/b/ba/Pud_shitwiz_01_ru.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
